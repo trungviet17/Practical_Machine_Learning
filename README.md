@@ -18,6 +18,11 @@ pip install -r requirement.txt
 # Contributing
 - Nếu thích thì có thể tải về, người tạo ra repo này cũng ko có giỏi đâu, tin được thì tải không thì thôi :V 
 
+
+# Resource 
+- Bạn có thể tìm thấy một số file pdf ở trong mục resource hoặc nếu không có tìm thấy thì link ở đây :) 
+
+
 # License
 
 [MIT](https://choosealicense.com/licenses/mit/)
