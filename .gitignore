@@ -165,10 +165,5 @@ cython_debug/
 .idea/
 /data
 /.vscode
-
-myclickflix/db.sqlite3
-Data/Main_data
-
-
-
 Course
+Data 
